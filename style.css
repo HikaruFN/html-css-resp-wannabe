@@ -83,7 +83,7 @@ img {
   width: 100%;
 }
 .row {
-  width: 419px;
+  max-width: 419px;
 }
 img {
   height: auto;
